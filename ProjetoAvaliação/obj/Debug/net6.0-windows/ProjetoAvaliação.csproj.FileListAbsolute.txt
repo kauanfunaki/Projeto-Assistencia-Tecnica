@@ -1,0 +1,279 @@
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormMain.resources
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.GenerateResource.cache
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.AssemblyInfoInputs.cache
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.AssemblyInfo.cs
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.CoreCompileInputs.cache
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.exe
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.deps.json
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.runtimeconfig.json
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.dll
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.pdb
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.dll
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\refint\ProjetoAvaliação.dll
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.pdb
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.genruntimeconfig.cache
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ref\ProjetoAvaliação.dll
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.Form1.resources
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.Form2.resources
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.Form3.resources
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.Form4.resources
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.Form5.resources
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.Form6.resources
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.Properties.Resources.resources
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.AssemblyReference.cache
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormCadastro.resources
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormLogin.resources
+C:\Users\kauan\source\repos\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.CopyComplete
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.exe
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.deps.json
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.runtimeconfig.json
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.pdb
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.AssemblyReference.cache
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormCadastro.resources
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormLogin.resources
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormMain.resources
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.Properties.Resources.resources
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.GenerateResource.cache
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.AssemblyInfoInputs.cache
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.AssemblyInfo.cs
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.CoreCompileInputs.cache
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.CopyComplete
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\refint\ProjetoAvaliação.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.pdb
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.genruntimeconfig.cache
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ref\ProjetoAvaliação.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\CustomMessageBox.Private.FormMessageBox.resources
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Interop.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormAbout.resources
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormAccount.resources
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormProducts.resources
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormSAC.resources
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormServices.resources
+C:\Users\kauan\OneDrive\Área de Trabalho\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.Forms.Account.FormCompleteCadastro.resources
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.exe
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.deps.json
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.runtimeconfig.json
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.dll
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.pdb
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Interop.dll
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.AssemblyReference.cache
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormCadastro.resources
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormLogin.resources
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormMain.resources
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormAccount.resources
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.Forms.Account.FormCompleteCadastro.resources
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormAbout.resources
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormProducts.resources
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormSAC.resources
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormServices.resources
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\CustomMessageBox.Private.FormMessageBox.resources
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.Properties.Resources.resources
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.GenerateResource.cache
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.AssemblyInfoInputs.cache
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.AssemblyInfo.cs
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.CoreCompileInputs.cache
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.CopyComplete
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.dll
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\refint\ProjetoAvaliação.dll
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.pdb
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.genruntimeconfig.cache
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ref\ProjetoAvaliação.dll
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormPurchase.resources
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.exe
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.deps.json
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.runtimeconfig.json
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.dll
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.pdb
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Interop.dll
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormMain.resources
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormCadastro.resources
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormLogin.resources
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormAccount.resources
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.Forms.Account.FormCompleteCadastro.resources
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormAbout.resources
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormProducts.resources
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormPurchase.resources
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormSAC.resources
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormServices.resources
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\CustomMessageBox.Private.FormMessageBox.resources
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.Properties.Resources.resources
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_Cadastro.resources
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_DuvidasFrequentes.resources
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_Entrega.resources
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_PedidosPagamentos.resources
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_TrocaDevolucao.resources
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.AssemblyInfo.cs
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.CopyComplete
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.dll
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\refint\ProjetoAvaliação.dll
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.pdb
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.genruntimeconfig.cache
+C:\Users\aluno\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ref\ProjetoAvaliação.dll
+D:\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.exe
+D:\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.deps.json
+D:\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.runtimeconfig.json
+D:\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.dll
+D:\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.pdb
+D:\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Interop.dll
+D:\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\Microsoft.VisualStudio.OLE.Interop.dll
+D:\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ProjetoAvaliação\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.AssemblyReference.cache
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormMain.resources
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormCadastro.resources
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormLogin.resources
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormAccount.resources
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.Forms.Account.FormCompleteCadastro.resources
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormAbout.resources
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormProducts.resources
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormPurchase.resources
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormSAC.resources
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormServices.resources
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\CustomMessageBox.Private.FormMessageBox.resources
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.Properties.Resources.resources
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_Cadastro.resources
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_DuvidasFrequentes.resources
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_Entrega.resources
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_PedidosPagamentos.resources
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_TrocaDevolucao.resources
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.GenerateResource.cache
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.AssemblyInfoInputs.cache
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.AssemblyInfo.cs
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.CoreCompileInputs.cache
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.CopyComplete
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.dll
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\refint\ProjetoAvaliação.dll
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.pdb
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.genruntimeconfig.cache
+D:\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ref\ProjetoAvaliação.dll
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_Cadastro.resources
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_DuvidasFrequentes.resources
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_Entrega.resources
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_PedidosPagamentos.resources
+C:\Users\kauan\Desktop\ProjetoAvaliação\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_TrocaDevolucao.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.exe
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.deps.json
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.runtimeconfig.json
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.dll
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.pdb
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Interop.dll
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.AssemblyReference.cache
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormMain.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormCadastro.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormLogin.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormAccount.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.Forms.Account.FormCompleteCadastro.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormAbout.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormProducts.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormPurchase.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormSAC.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormServices.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\CustomMessageBox.Private.FormMessageBox.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.Properties.Resources.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_Cadastro.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_DuvidasFrequentes.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_Entrega.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_PedidosPagamentos.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_TrocaDevolucao.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.GenerateResource.cache
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.AssemblyInfoInputs.cache
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.AssemblyInfo.cs
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.CoreCompileInputs.cache
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.CopyComplete
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.dll
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\refint\ProjetoAvaliação.dll
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.pdb
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.genruntimeconfig.cache
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ref\ProjetoAvaliação.dll
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.AssemblyReference.cache
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormMain.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormCadastro.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormLogin.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormAccount.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.Forms.Account.FormCompleteCadastro.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormAbout.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormProducts.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormPurchase.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormSAC.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormServices.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\CustomMessageBox.Private.FormMessageBox.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.Properties.Resources.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_Cadastro.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_DuvidasFrequentes.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_Entrega.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_PedidosPagamentos.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_TrocaDevolucao.resources
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.GenerateResource.cache
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.AssemblyInfoInputs.cache
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.AssemblyInfo.cs
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.CoreCompileInputs.cache
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.dll
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\refint\ProjetoAvaliação.dll
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.pdb
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.exe
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.deps.json
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.runtimeconfig.json
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.dll
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.pdb
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Interop.dll
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.CopyComplete
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.genruntimeconfig.cache
+C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ref\ProjetoAvaliação.dll
