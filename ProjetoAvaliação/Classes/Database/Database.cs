@@ -13,7 +13,7 @@ namespace ProjetoAvaliação.Classes.Database
         {
             string connectionString = "Data Source=localhost\\SQLEXPRESS;Initial Catalog=DB;" +
                 "Integrated Security=True";
-
+            
             return connectionString;
         }
     }

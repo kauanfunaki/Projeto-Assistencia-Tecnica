@@ -35,8 +35,15 @@ namespace ProjetoAvaliação
                     btn.FlatAppearance.BorderColor = ThemeColor.SecondaryColor;
                 }
             }
-            label1.ForeColor = ThemeColor.SecondaryColor;
-            label2.ForeColor = ThemeColor.PrimaryColor;
+            label1.ForeColor = ThemeColor.PrimaryColor;
+            label6.ForeColor = ThemeColor.PrimaryColor;
+            label21.ForeColor = ThemeColor.PrimaryColor;
+            label18.ForeColor = ThemeColor.PrimaryColor;
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

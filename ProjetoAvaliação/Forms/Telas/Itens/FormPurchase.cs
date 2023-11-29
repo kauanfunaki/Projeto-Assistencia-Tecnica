@@ -241,7 +241,7 @@ namespace ProjetoAvaliação
         private void AdicionarQuantidade(object sender, EventArgs e)
         {
             Button btn = (Button)sender;
-            int id = ObterIdDoCarrinho(btn.Name); 
+            int id = ObterIdDoCarrinho(btn.Name);
 
             AtualizarQuantidade(id, 1);
         }
@@ -249,7 +249,7 @@ namespace ProjetoAvaliação
         private void RemoverQuantidade(object sender, EventArgs e)
         {
             Button btn = (Button)sender;
-            int id = ObterIdDoCarrinho(btn.Name); 
+            int id = ObterIdDoCarrinho(btn.Name);
 
             AtualizarQuantidade(id, -1);
         }

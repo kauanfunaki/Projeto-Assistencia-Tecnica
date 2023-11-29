@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="Forms\Telas\FormPurchase.cs">
+    <Compile Update="Forms\Telas\Itens\FormPurchase.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Forms\Login\FormCadastro.cs">
@@ -16,10 +16,10 @@
     <Compile Update="Forms\Telas\Account\FormCompleteCadastro.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Forms\Telas\FormProducts.cs">
+    <Compile Update="Forms\Telas\Itens\FormProducts.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Forms\Telas\FormServices.cs">
+    <Compile Update="Forms\Telas\Itens\FormServices.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Forms\Telas\FormAbout.cs">
