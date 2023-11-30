@@ -160,7 +160,7 @@
             panelMain.RowCount = 2;
             panelMain.RowStyles.Add(new RowStyle(SizeType.Percent, 25F));
             panelMain.RowStyles.Add(new RowStyle(SizeType.Percent, 25F));
-            panelMain.Size = new Size(779, 724);
+            panelMain.Size = new Size(762, 724);
             panelMain.TabIndex = 2;
             // 
             // panel16
@@ -172,18 +172,18 @@
             panel16.Controls.Add(labelPriceProduct8);
             panel16.Controls.Add(label27);
             panel16.Controls.Add(panel17);
-            panel16.Location = new Point(585, 378);
+            panel16.Location = new Point(573, 378);
             panel16.Name = "panel16";
-            panel16.Size = new Size(190, 329);
+            panel16.Size = new Size(186, 329);
             panel16.TabIndex = 7;
             // 
             // pictureBox5
             // 
             pictureBox5.Dock = DockStyle.Fill;
-            pictureBox5.Image = Properties.Resources.GeForce_GTX_4090;
+            pictureBox5.Image = (Image)resources.GetObject("pictureBox5.Image");
             pictureBox5.Location = new Point(0, 0);
             pictureBox5.Name = "pictureBox5";
-            pictureBox5.Size = new Size(190, 172);
+            pictureBox5.Size = new Size(186, 172);
             pictureBox5.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox5.TabIndex = 9;
             pictureBox5.TabStop = false;
@@ -194,9 +194,9 @@
             labelProduct8.Font = new Font("Segoe UI", 10F, FontStyle.Bold, GraphicsUnit.Point);
             labelProduct8.Location = new Point(0, 172);
             labelProduct8.Name = "labelProduct8";
-            labelProduct8.Size = new Size(190, 36);
+            labelProduct8.Size = new Size(186, 36);
             labelProduct8.TabIndex = 8;
-            labelProduct8.Text = "Placa de Vídeo RTX 4090";
+            labelProduct8.Text = "Water Cooler Nzxt Kraken";
             labelProduct8.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // label25
@@ -206,9 +206,9 @@
             label25.ForeColor = Color.Gray;
             label25.Location = new Point(0, 208);
             label25.Name = "label25";
-            label25.Size = new Size(190, 23);
+            label25.Size = new Size(186, 23);
             label25.TabIndex = 7;
-            label25.Text = "R$ 12.199,99";
+            label25.Text = "R$ 1.700,00";
             label25.TextAlign = ContentAlignment.BottomLeft;
             // 
             // labelPriceProduct8
@@ -217,9 +217,9 @@
             labelPriceProduct8.Font = new Font("Segoe UI", 14F, FontStyle.Regular, GraphicsUnit.Point);
             labelPriceProduct8.Location = new Point(0, 231);
             labelPriceProduct8.Name = "labelPriceProduct8";
-            labelPriceProduct8.Size = new Size(190, 22);
+            labelPriceProduct8.Size = new Size(186, 22);
             labelPriceProduct8.TabIndex = 6;
-            labelPriceProduct8.Text = "R$ 9.999,99";
+            labelPriceProduct8.Text = "R$ 1.499,00";
             labelPriceProduct8.TextAlign = ContentAlignment.BottomLeft;
             // 
             // label27
@@ -229,7 +229,7 @@
             label27.ForeColor = Color.Gray;
             label27.Location = new Point(0, 253);
             label27.Name = "label27";
-            label27.Size = new Size(190, 23);
+            label27.Size = new Size(186, 23);
             label27.TabIndex = 5;
             label27.Text = "À vista no PIX";
             // 
@@ -240,7 +240,7 @@
             panel17.Dock = DockStyle.Bottom;
             panel17.Location = new Point(0, 276);
             panel17.Name = "panel17";
-            panel17.Size = new Size(190, 53);
+            panel17.Size = new Size(186, 53);
             panel17.TabIndex = 0;
             // 
             // buttonBuyProduct8
@@ -252,7 +252,7 @@
             buttonBuyProduct8.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point);
             buttonBuyProduct8.Image = (Image)resources.GetObject("buttonBuyProduct8.Image");
             buttonBuyProduct8.ImageAlign = ContentAlignment.MiddleLeft;
-            buttonBuyProduct8.Location = new Point(24, 10);
+            buttonBuyProduct8.Location = new Point(22, 10);
             buttonBuyProduct8.Name = "buttonBuyProduct8";
             buttonBuyProduct8.Padding = new Padding(15, 0, 0, 0);
             buttonBuyProduct8.Size = new Size(140, 32);
@@ -270,7 +270,7 @@
             button13.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point);
             button13.Image = (Image)resources.GetObject("button13.Image");
             button13.ImageAlign = ContentAlignment.MiddleLeft;
-            button13.Location = new Point(5, -86);
+            button13.Location = new Point(3, -86);
             button13.Name = "button13";
             button13.Padding = new Padding(15, 0, 0, 0);
             button13.Size = new Size(140, 32);
@@ -287,18 +287,18 @@
             panel14.Controls.Add(labelPriceProduct7);
             panel14.Controls.Add(label23);
             panel14.Controls.Add(panel15);
-            panel14.Location = new Point(391, 378);
+            panel14.Location = new Point(383, 378);
             panel14.Name = "panel14";
-            panel14.Size = new Size(188, 329);
+            panel14.Size = new Size(184, 329);
             panel14.TabIndex = 6;
             // 
             // pictureBox6
             // 
             pictureBox6.Dock = DockStyle.Fill;
-            pictureBox6.Image = Properties.Resources.GeForce_GTX_4090;
+            pictureBox6.Image = (Image)resources.GetObject("pictureBox6.Image");
             pictureBox6.Location = new Point(0, 0);
             pictureBox6.Name = "pictureBox6";
-            pictureBox6.Size = new Size(188, 172);
+            pictureBox6.Size = new Size(184, 172);
             pictureBox6.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox6.TabIndex = 9;
             pictureBox6.TabStop = false;
@@ -309,9 +309,9 @@
             labelProduct7.Font = new Font("Segoe UI", 10F, FontStyle.Bold, GraphicsUnit.Point);
             labelProduct7.Location = new Point(0, 172);
             labelProduct7.Name = "labelProduct7";
-            labelProduct7.Size = new Size(188, 36);
+            labelProduct7.Size = new Size(184, 36);
             labelProduct7.TabIndex = 8;
-            labelProduct7.Text = "Placa de Vídeo RTX 4090";
+            labelProduct7.Text = "Intel I9-11900k";
             labelProduct7.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // label21
@@ -321,9 +321,9 @@
             label21.ForeColor = Color.Gray;
             label21.Location = new Point(0, 208);
             label21.Name = "label21";
-            label21.Size = new Size(188, 23);
+            label21.Size = new Size(184, 23);
             label21.TabIndex = 7;
-            label21.Text = "R$ 12.199,99";
+            label21.Text = "R$ 3.499,99";
             label21.TextAlign = ContentAlignment.BottomLeft;
             // 
             // labelPriceProduct7
@@ -332,9 +332,9 @@
             labelPriceProduct7.Font = new Font("Segoe UI", 14F, FontStyle.Regular, GraphicsUnit.Point);
             labelPriceProduct7.Location = new Point(0, 231);
             labelPriceProduct7.Name = "labelPriceProduct7";
-            labelPriceProduct7.Size = new Size(188, 22);
+            labelPriceProduct7.Size = new Size(184, 22);
             labelPriceProduct7.TabIndex = 6;
-            labelPriceProduct7.Text = "R$ 9.999,99";
+            labelPriceProduct7.Text = "R$ 2.500,00";
             labelPriceProduct7.TextAlign = ContentAlignment.BottomLeft;
             // 
             // label23
@@ -344,7 +344,7 @@
             label23.ForeColor = Color.Gray;
             label23.Location = new Point(0, 253);
             label23.Name = "label23";
-            label23.Size = new Size(188, 23);
+            label23.Size = new Size(184, 23);
             label23.TabIndex = 5;
             label23.Text = "À vista no PIX";
             // 
@@ -355,7 +355,7 @@
             panel15.Dock = DockStyle.Bottom;
             panel15.Location = new Point(0, 276);
             panel15.Name = "panel15";
-            panel15.Size = new Size(188, 53);
+            panel15.Size = new Size(184, 53);
             panel15.TabIndex = 0;
             // 
             // buttonBuyProduct7
@@ -367,7 +367,7 @@
             buttonBuyProduct7.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point);
             buttonBuyProduct7.Image = (Image)resources.GetObject("buttonBuyProduct7.Image");
             buttonBuyProduct7.ImageAlign = ContentAlignment.MiddleLeft;
-            buttonBuyProduct7.Location = new Point(23, 10);
+            buttonBuyProduct7.Location = new Point(21, 10);
             buttonBuyProduct7.Name = "buttonBuyProduct7";
             buttonBuyProduct7.Padding = new Padding(15, 0, 0, 0);
             buttonBuyProduct7.Size = new Size(140, 32);
@@ -385,7 +385,7 @@
             button11.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point);
             button11.Image = (Image)resources.GetObject("button11.Image");
             button11.ImageAlign = ContentAlignment.MiddleLeft;
-            button11.Location = new Point(4, -86);
+            button11.Location = new Point(2, -86);
             button11.Name = "button11";
             button11.Padding = new Padding(15, 0, 0, 0);
             button11.Size = new Size(140, 32);
@@ -402,18 +402,18 @@
             panel12.Controls.Add(labelPriceProduct6);
             panel12.Controls.Add(label19);
             panel12.Controls.Add(panel13);
-            panel12.Location = new Point(197, 378);
+            panel12.Location = new Point(193, 378);
             panel12.Name = "panel12";
-            panel12.Size = new Size(188, 329);
+            panel12.Size = new Size(184, 329);
             panel12.TabIndex = 5;
             // 
             // pictureBox7
             // 
             pictureBox7.Dock = DockStyle.Fill;
-            pictureBox7.Image = Properties.Resources.GeForce_GTX_4090;
+            pictureBox7.Image = (Image)resources.GetObject("pictureBox7.Image");
             pictureBox7.Location = new Point(0, 0);
             pictureBox7.Name = "pictureBox7";
-            pictureBox7.Size = new Size(188, 172);
+            pictureBox7.Size = new Size(184, 172);
             pictureBox7.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox7.TabIndex = 9;
             pictureBox7.TabStop = false;
@@ -424,9 +424,9 @@
             labelProduct6.Font = new Font("Segoe UI", 10F, FontStyle.Bold, GraphicsUnit.Point);
             labelProduct6.Location = new Point(0, 172);
             labelProduct6.Name = "labelProduct6";
-            labelProduct6.Size = new Size(188, 36);
+            labelProduct6.Size = new Size(184, 36);
             labelProduct6.TabIndex = 8;
-            labelProduct6.Text = "Placa de Vídeo RTX 4090";
+            labelProduct6.Text = "Gabinete NZXT H7";
             labelProduct6.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // label17
@@ -436,9 +436,9 @@
             label17.ForeColor = Color.Gray;
             label17.Location = new Point(0, 208);
             label17.Name = "label17";
-            label17.Size = new Size(188, 23);
+            label17.Size = new Size(184, 23);
             label17.TabIndex = 7;
-            label17.Text = "R$ 12.199,99";
+            label17.Text = "R$ 1.199,99";
             label17.TextAlign = ContentAlignment.BottomLeft;
             // 
             // labelPriceProduct6
@@ -447,9 +447,9 @@
             labelPriceProduct6.Font = new Font("Segoe UI", 14F, FontStyle.Regular, GraphicsUnit.Point);
             labelPriceProduct6.Location = new Point(0, 231);
             labelPriceProduct6.Name = "labelPriceProduct6";
-            labelPriceProduct6.Size = new Size(188, 22);
+            labelPriceProduct6.Size = new Size(184, 22);
             labelPriceProduct6.TabIndex = 6;
-            labelPriceProduct6.Text = "R$ 9.999,99";
+            labelPriceProduct6.Text = "R$ 899,99";
             labelPriceProduct6.TextAlign = ContentAlignment.BottomLeft;
             // 
             // label19
@@ -459,7 +459,7 @@
             label19.ForeColor = Color.Gray;
             label19.Location = new Point(0, 253);
             label19.Name = "label19";
-            label19.Size = new Size(188, 23);
+            label19.Size = new Size(184, 23);
             label19.TabIndex = 5;
             label19.Text = "À vista no PIX";
             // 
@@ -470,7 +470,7 @@
             panel13.Dock = DockStyle.Bottom;
             panel13.Location = new Point(0, 276);
             panel13.Name = "panel13";
-            panel13.Size = new Size(188, 53);
+            panel13.Size = new Size(184, 53);
             panel13.TabIndex = 0;
             // 
             // buttonBuyProduct6
@@ -482,7 +482,7 @@
             buttonBuyProduct6.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point);
             buttonBuyProduct6.Image = (Image)resources.GetObject("buttonBuyProduct6.Image");
             buttonBuyProduct6.ImageAlign = ContentAlignment.MiddleLeft;
-            buttonBuyProduct6.Location = new Point(23, 10);
+            buttonBuyProduct6.Location = new Point(21, 10);
             buttonBuyProduct6.Name = "buttonBuyProduct6";
             buttonBuyProduct6.Padding = new Padding(15, 0, 0, 0);
             buttonBuyProduct6.Size = new Size(140, 32);
@@ -500,7 +500,7 @@
             button9.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point);
             button9.Image = (Image)resources.GetObject("button9.Image");
             button9.ImageAlign = ContentAlignment.MiddleLeft;
-            button9.Location = new Point(4, -86);
+            button9.Location = new Point(2, -86);
             button9.Name = "button9";
             button9.Padding = new Padding(15, 0, 0, 0);
             button9.Size = new Size(140, 32);
@@ -519,16 +519,16 @@
             panel8.Controls.Add(panel9);
             panel8.Location = new Point(3, 378);
             panel8.Name = "panel8";
-            panel8.Size = new Size(188, 329);
+            panel8.Size = new Size(184, 329);
             panel8.TabIndex = 4;
             // 
             // pictureBox8
             // 
             pictureBox8.Dock = DockStyle.Fill;
-            pictureBox8.Image = Properties.Resources.GeForce_GTX_4090;
+            pictureBox8.Image = (Image)resources.GetObject("pictureBox8.Image");
             pictureBox8.Location = new Point(0, 0);
             pictureBox8.Name = "pictureBox8";
-            pictureBox8.Size = new Size(188, 172);
+            pictureBox8.Size = new Size(184, 172);
             pictureBox8.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox8.TabIndex = 9;
             pictureBox8.TabStop = false;
@@ -539,9 +539,9 @@
             labelProduct5.Font = new Font("Segoe UI", 10F, FontStyle.Bold, GraphicsUnit.Point);
             labelProduct5.Location = new Point(0, 172);
             labelProduct5.Name = "labelProduct5";
-            labelProduct5.Size = new Size(188, 36);
+            labelProduct5.Size = new Size(184, 36);
             labelProduct5.TabIndex = 8;
-            labelProduct5.Text = "Placa de Vídeo RTX 4090";
+            labelProduct5.Text = "Fonte 550W 80 Plus";
             labelProduct5.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // label12
@@ -551,9 +551,9 @@
             label12.ForeColor = Color.Gray;
             label12.Location = new Point(0, 208);
             label12.Name = "label12";
-            label12.Size = new Size(188, 23);
+            label12.Size = new Size(184, 23);
             label12.TabIndex = 7;
-            label12.Text = "R$ 12.199,99";
+            label12.Text = "R$ 435,77";
             label12.TextAlign = ContentAlignment.BottomLeft;
             // 
             // labelPriceProduct5
@@ -562,9 +562,9 @@
             labelPriceProduct5.Font = new Font("Segoe UI", 14F, FontStyle.Regular, GraphicsUnit.Point);
             labelPriceProduct5.Location = new Point(0, 231);
             labelPriceProduct5.Name = "labelPriceProduct5";
-            labelPriceProduct5.Size = new Size(188, 22);
+            labelPriceProduct5.Size = new Size(184, 22);
             labelPriceProduct5.TabIndex = 6;
-            labelPriceProduct5.Text = "R$ 9.999,99";
+            labelPriceProduct5.Text = "R$ 294,99";
             labelPriceProduct5.TextAlign = ContentAlignment.BottomLeft;
             // 
             // label15
@@ -574,7 +574,7 @@
             label15.ForeColor = Color.Gray;
             label15.Location = new Point(0, 253);
             label15.Name = "label15";
-            label15.Size = new Size(188, 23);
+            label15.Size = new Size(184, 23);
             label15.TabIndex = 5;
             label15.Text = "À vista no PIX";
             // 
@@ -585,7 +585,7 @@
             panel9.Dock = DockStyle.Bottom;
             panel9.Location = new Point(0, 276);
             panel9.Name = "panel9";
-            panel9.Size = new Size(188, 53);
+            panel9.Size = new Size(184, 53);
             panel9.TabIndex = 0;
             // 
             // buttonBuyProduct5
@@ -597,7 +597,7 @@
             buttonBuyProduct5.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point);
             buttonBuyProduct5.Image = (Image)resources.GetObject("buttonBuyProduct5.Image");
             buttonBuyProduct5.ImageAlign = ContentAlignment.MiddleLeft;
-            buttonBuyProduct5.Location = new Point(23, 10);
+            buttonBuyProduct5.Location = new Point(21, 10);
             buttonBuyProduct5.Name = "buttonBuyProduct5";
             buttonBuyProduct5.Padding = new Padding(15, 0, 0, 0);
             buttonBuyProduct5.Size = new Size(140, 32);
@@ -615,7 +615,7 @@
             button7.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point);
             button7.Image = (Image)resources.GetObject("button7.Image");
             button7.ImageAlign = ContentAlignment.MiddleLeft;
-            button7.Location = new Point(4, -86);
+            button7.Location = new Point(2, -86);
             button7.Name = "button7";
             button7.Padding = new Padding(15, 0, 0, 0);
             button7.Size = new Size(140, 32);
@@ -632,18 +632,18 @@
             panel6.Controls.Add(labelPriceProduct4);
             panel6.Controls.Add(label9);
             panel6.Controls.Add(panel7);
-            panel6.Location = new Point(585, 16);
+            panel6.Location = new Point(573, 16);
             panel6.Name = "panel6";
-            panel6.Size = new Size(190, 329);
+            panel6.Size = new Size(186, 329);
             panel6.TabIndex = 3;
             // 
             // pictureBox4
             // 
             pictureBox4.Dock = DockStyle.Fill;
-            pictureBox4.Image = Properties.Resources.GeForce_GTX_4090;
+            pictureBox4.Image = (Image)resources.GetObject("pictureBox4.Image");
             pictureBox4.Location = new Point(0, 0);
             pictureBox4.Name = "pictureBox4";
-            pictureBox4.Size = new Size(190, 172);
+            pictureBox4.Size = new Size(186, 172);
             pictureBox4.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox4.TabIndex = 9;
             pictureBox4.TabStop = false;
@@ -654,9 +654,9 @@
             labelProduct4.Font = new Font("Segoe UI", 10F, FontStyle.Bold, GraphicsUnit.Point);
             labelProduct4.Location = new Point(0, 172);
             labelProduct4.Name = "labelProduct4";
-            labelProduct4.Size = new Size(190, 36);
+            labelProduct4.Size = new Size(186, 36);
             labelProduct4.TabIndex = 8;
-            labelProduct4.Text = "Placa de Vídeo RTX 4090";
+            labelProduct4.Text = "B550m AORUS";
             labelProduct4.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // label7
@@ -666,9 +666,9 @@
             label7.ForeColor = Color.Gray;
             label7.Location = new Point(0, 208);
             label7.Name = "label7";
-            label7.Size = new Size(190, 23);
+            label7.Size = new Size(186, 23);
             label7.TabIndex = 7;
-            label7.Text = "R$ 12.199,99";
+            label7.Text = "R$ 999,99";
             label7.TextAlign = ContentAlignment.BottomLeft;
             // 
             // labelPriceProduct4
@@ -677,9 +677,9 @@
             labelPriceProduct4.Font = new Font("Segoe UI", 14F, FontStyle.Regular, GraphicsUnit.Point);
             labelPriceProduct4.Location = new Point(0, 231);
             labelPriceProduct4.Name = "labelPriceProduct4";
-            labelPriceProduct4.Size = new Size(190, 22);
+            labelPriceProduct4.Size = new Size(186, 22);
             labelPriceProduct4.TabIndex = 6;
-            labelPriceProduct4.Text = "R$ 9.999,99";
+            labelPriceProduct4.Text = "R$ 742,73";
             labelPriceProduct4.TextAlign = ContentAlignment.BottomLeft;
             // 
             // label9
@@ -689,7 +689,7 @@
             label9.ForeColor = Color.Gray;
             label9.Location = new Point(0, 253);
             label9.Name = "label9";
-            label9.Size = new Size(190, 23);
+            label9.Size = new Size(186, 23);
             label9.TabIndex = 5;
             label9.Text = "À vista no PIX";
             // 
@@ -700,7 +700,7 @@
             panel7.Dock = DockStyle.Bottom;
             panel7.Location = new Point(0, 276);
             panel7.Name = "panel7";
-            panel7.Size = new Size(190, 53);
+            panel7.Size = new Size(186, 53);
             panel7.TabIndex = 0;
             // 
             // buttonBuyProduct4
@@ -712,7 +712,7 @@
             buttonBuyProduct4.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point);
             buttonBuyProduct4.Image = (Image)resources.GetObject("buttonBuyProduct4.Image");
             buttonBuyProduct4.ImageAlign = ContentAlignment.MiddleLeft;
-            buttonBuyProduct4.Location = new Point(24, 10);
+            buttonBuyProduct4.Location = new Point(22, 10);
             buttonBuyProduct4.Name = "buttonBuyProduct4";
             buttonBuyProduct4.Padding = new Padding(15, 0, 0, 0);
             buttonBuyProduct4.Size = new Size(140, 32);
@@ -730,7 +730,7 @@
             button5.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point);
             button5.Image = (Image)resources.GetObject("button5.Image");
             button5.ImageAlign = ContentAlignment.MiddleLeft;
-            button5.Location = new Point(5, -86);
+            button5.Location = new Point(3, -86);
             button5.Name = "button5";
             button5.Padding = new Padding(15, 0, 0, 0);
             button5.Size = new Size(140, 32);
@@ -747,18 +747,18 @@
             panel4.Controls.Add(labelPriceProduct3);
             panel4.Controls.Add(label5);
             panel4.Controls.Add(panel5);
-            panel4.Location = new Point(391, 16);
+            panel4.Location = new Point(383, 16);
             panel4.Name = "panel4";
-            panel4.Size = new Size(188, 329);
+            panel4.Size = new Size(184, 329);
             panel4.TabIndex = 2;
             // 
             // pictureBox3
             // 
             pictureBox3.Dock = DockStyle.Fill;
-            pictureBox3.Image = Properties.Resources.GeForce_GTX_4090;
+            pictureBox3.Image = (Image)resources.GetObject("pictureBox3.Image");
             pictureBox3.Location = new Point(0, 0);
             pictureBox3.Name = "pictureBox3";
-            pictureBox3.Size = new Size(188, 172);
+            pictureBox3.Size = new Size(184, 172);
             pictureBox3.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox3.TabIndex = 9;
             pictureBox3.TabStop = false;
@@ -769,9 +769,9 @@
             labelProduct3.Font = new Font("Segoe UI", 10F, FontStyle.Bold, GraphicsUnit.Point);
             labelProduct3.Location = new Point(0, 172);
             labelProduct3.Name = "labelProduct3";
-            labelProduct3.Size = new Size(188, 36);
+            labelProduct3.Size = new Size(184, 36);
             labelProduct3.TabIndex = 8;
-            labelProduct3.Text = "Placa de Vídeo RTX 4090";
+            labelProduct3.Text = "Ryzen 7 5700x";
             labelProduct3.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // label2
@@ -781,9 +781,9 @@
             label2.ForeColor = Color.Gray;
             label2.Location = new Point(0, 208);
             label2.Name = "label2";
-            label2.Size = new Size(188, 23);
+            label2.Size = new Size(184, 23);
             label2.TabIndex = 7;
-            label2.Text = "R$ 12.199,99";
+            label2.Text = "R$ 1.350,00";
             label2.TextAlign = ContentAlignment.BottomLeft;
             // 
             // labelPriceProduct3
@@ -792,9 +792,9 @@
             labelPriceProduct3.Font = new Font("Segoe UI", 14F, FontStyle.Regular, GraphicsUnit.Point);
             labelPriceProduct3.Location = new Point(0, 231);
             labelPriceProduct3.Name = "labelPriceProduct3";
-            labelPriceProduct3.Size = new Size(188, 22);
+            labelPriceProduct3.Size = new Size(184, 22);
             labelPriceProduct3.TabIndex = 6;
-            labelPriceProduct3.Text = "R$ 9.999,99";
+            labelPriceProduct3.Text = "R$ 1.194,00";
             labelPriceProduct3.TextAlign = ContentAlignment.BottomLeft;
             // 
             // label5
@@ -804,7 +804,7 @@
             label5.ForeColor = Color.Gray;
             label5.Location = new Point(0, 253);
             label5.Name = "label5";
-            label5.Size = new Size(188, 23);
+            label5.Size = new Size(184, 23);
             label5.TabIndex = 5;
             label5.Text = "À vista no PIX";
             // 
@@ -815,7 +815,7 @@
             panel5.Dock = DockStyle.Bottom;
             panel5.Location = new Point(0, 276);
             panel5.Name = "panel5";
-            panel5.Size = new Size(188, 53);
+            panel5.Size = new Size(184, 53);
             panel5.TabIndex = 0;
             // 
             // buttonBuyProduct3
@@ -827,7 +827,7 @@
             buttonBuyProduct3.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point);
             buttonBuyProduct3.Image = (Image)resources.GetObject("buttonBuyProduct3.Image");
             buttonBuyProduct3.ImageAlign = ContentAlignment.MiddleLeft;
-            buttonBuyProduct3.Location = new Point(23, 10);
+            buttonBuyProduct3.Location = new Point(21, 10);
             buttonBuyProduct3.Name = "buttonBuyProduct3";
             buttonBuyProduct3.Padding = new Padding(15, 0, 0, 0);
             buttonBuyProduct3.Size = new Size(140, 32);
@@ -845,7 +845,7 @@
             button2.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point);
             button2.Image = (Image)resources.GetObject("button2.Image");
             button2.ImageAlign = ContentAlignment.MiddleLeft;
-            button2.Location = new Point(4, -86);
+            button2.Location = new Point(2, -86);
             button2.Name = "button2";
             button2.Padding = new Padding(15, 0, 0, 0);
             button2.Size = new Size(140, 32);
@@ -862,18 +862,18 @@
             panel10.Controls.Add(labelPriceProduct2);
             panel10.Controls.Add(label13);
             panel10.Controls.Add(panel11);
-            panel10.Location = new Point(197, 16);
+            panel10.Location = new Point(193, 16);
             panel10.Name = "panel10";
-            panel10.Size = new Size(188, 329);
+            panel10.Size = new Size(184, 329);
             panel10.TabIndex = 1;
             // 
             // pictureBox2
             // 
             pictureBox2.Dock = DockStyle.Fill;
-            pictureBox2.Image = Properties.Resources.GeForce_GTX_4090;
+            pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
             pictureBox2.Location = new Point(0, 0);
             pictureBox2.Name = "pictureBox2";
-            pictureBox2.Size = new Size(188, 172);
+            pictureBox2.Size = new Size(184, 172);
             pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox2.TabIndex = 9;
             pictureBox2.TabStop = false;
@@ -884,9 +884,9 @@
             labelProduct2.Font = new Font("Segoe UI", 10F, FontStyle.Bold, GraphicsUnit.Point);
             labelProduct2.Location = new Point(0, 172);
             labelProduct2.Name = "labelProduct2";
-            labelProduct2.Size = new Size(188, 36);
+            labelProduct2.Size = new Size(184, 36);
             labelProduct2.TabIndex = 8;
-            labelProduct2.Text = "Placa de Vídeo RTX 4090";
+            labelProduct2.Text = "3060 TI Founders";
             labelProduct2.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // label11
@@ -896,9 +896,8 @@
             label11.ForeColor = Color.Gray;
             label11.Location = new Point(0, 208);
             label11.Name = "label11";
-            label11.Size = new Size(188, 23);
+            label11.Size = new Size(184, 23);
             label11.TabIndex = 7;
-            label11.Text = "R$ 12.199,99";
             label11.TextAlign = ContentAlignment.BottomLeft;
             // 
             // labelPriceProduct2
@@ -907,9 +906,9 @@
             labelPriceProduct2.Font = new Font("Segoe UI", 14F, FontStyle.Regular, GraphicsUnit.Point);
             labelPriceProduct2.Location = new Point(0, 231);
             labelPriceProduct2.Name = "labelPriceProduct2";
-            labelPriceProduct2.Size = new Size(188, 22);
+            labelPriceProduct2.Size = new Size(184, 22);
             labelPriceProduct2.TabIndex = 6;
-            labelPriceProduct2.Text = "R$ 9.999,99";
+            labelPriceProduct2.Text = "R$ 2.199,99";
             labelPriceProduct2.TextAlign = ContentAlignment.BottomLeft;
             // 
             // label13
@@ -919,7 +918,7 @@
             label13.ForeColor = Color.Gray;
             label13.Location = new Point(0, 253);
             label13.Name = "label13";
-            label13.Size = new Size(188, 23);
+            label13.Size = new Size(184, 23);
             label13.TabIndex = 5;
             label13.Text = "À vista no PIX";
             // 
@@ -930,7 +929,7 @@
             panel11.Dock = DockStyle.Bottom;
             panel11.Location = new Point(0, 276);
             panel11.Name = "panel11";
-            panel11.Size = new Size(188, 53);
+            panel11.Size = new Size(184, 53);
             panel11.TabIndex = 0;
             // 
             // buttonBuyProduct2
@@ -942,7 +941,7 @@
             buttonBuyProduct2.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point);
             buttonBuyProduct2.Image = (Image)resources.GetObject("buttonBuyProduct2.Image");
             buttonBuyProduct2.ImageAlign = ContentAlignment.MiddleLeft;
-            buttonBuyProduct2.Location = new Point(23, 10);
+            buttonBuyProduct2.Location = new Point(21, 10);
             buttonBuyProduct2.Name = "buttonBuyProduct2";
             buttonBuyProduct2.Padding = new Padding(15, 0, 0, 0);
             buttonBuyProduct2.Size = new Size(140, 32);
@@ -960,7 +959,7 @@
             button3.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point);
             button3.Image = (Image)resources.GetObject("button3.Image");
             button3.ImageAlign = ContentAlignment.MiddleLeft;
-            button3.Location = new Point(9, -62);
+            button3.Location = new Point(7, -62);
             button3.Name = "button3";
             button3.Padding = new Padding(15, 0, 0, 0);
             button3.Size = new Size(140, 32);
@@ -975,7 +974,7 @@
             panel1.Controls.Add(panel2);
             panel1.Location = new Point(3, 16);
             panel1.Name = "panel1";
-            panel1.Size = new Size(188, 329);
+            panel1.Size = new Size(184, 329);
             panel1.TabIndex = 0;
             // 
             // panel3
@@ -989,7 +988,7 @@
             panel3.Dock = DockStyle.Fill;
             panel3.Location = new Point(0, 0);
             panel3.Name = "panel3";
-            panel3.Size = new Size(188, 276);
+            panel3.Size = new Size(184, 276);
             panel3.TabIndex = 1;
             // 
             // pictureBox1
@@ -998,7 +997,7 @@
             pictureBox1.Image = Properties.Resources.GeForce_GTX_4090;
             pictureBox1.Location = new Point(0, 0);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(188, 172);
+            pictureBox1.Size = new Size(184, 172);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 5;
             pictureBox1.TabStop = false;
@@ -1009,7 +1008,7 @@
             pbProduto1.Image = Properties.Resources.GeForce_GTX_4090;
             pbProduto1.Location = new Point(0, 0);
             pbProduto1.Name = "pbProduto1";
-            pbProduto1.Size = new Size(188, 172);
+            pbProduto1.Size = new Size(184, 172);
             pbProduto1.SizeMode = PictureBoxSizeMode.StretchImage;
             pbProduto1.TabIndex = 4;
             pbProduto1.TabStop = false;
@@ -1020,7 +1019,7 @@
             labelProduct1.Font = new Font("Segoe UI", 10F, FontStyle.Bold, GraphicsUnit.Point);
             labelProduct1.Location = new Point(0, 172);
             labelProduct1.Name = "labelProduct1";
-            labelProduct1.Size = new Size(188, 36);
+            labelProduct1.Size = new Size(184, 36);
             labelProduct1.TabIndex = 3;
             labelProduct1.Text = "Placa de Vídeo RTX 4090";
             labelProduct1.TextAlign = ContentAlignment.MiddleCenter;
@@ -1032,7 +1031,7 @@
             lblPromo1.ForeColor = Color.Gray;
             lblPromo1.Location = new Point(0, 208);
             lblPromo1.Name = "lblPromo1";
-            lblPromo1.Size = new Size(188, 23);
+            lblPromo1.Size = new Size(184, 23);
             lblPromo1.TabIndex = 2;
             lblPromo1.Text = "R$ 12.199,99";
             lblPromo1.TextAlign = ContentAlignment.BottomLeft;
@@ -1043,7 +1042,7 @@
             labelPriceProduct1.Font = new Font("Segoe UI", 14F, FontStyle.Regular, GraphicsUnit.Point);
             labelPriceProduct1.Location = new Point(0, 231);
             labelPriceProduct1.Name = "labelPriceProduct1";
-            labelPriceProduct1.Size = new Size(188, 22);
+            labelPriceProduct1.Size = new Size(184, 22);
             labelPriceProduct1.TabIndex = 1;
             labelPriceProduct1.Text = "R$ 9.999,99";
             labelPriceProduct1.TextAlign = ContentAlignment.BottomLeft;
@@ -1055,7 +1054,7 @@
             label3.ForeColor = Color.Gray;
             label3.Location = new Point(0, 253);
             label3.Name = "label3";
-            label3.Size = new Size(188, 23);
+            label3.Size = new Size(184, 23);
             label3.TabIndex = 0;
             label3.Text = "À vista no PIX";
             // 
@@ -1065,7 +1064,7 @@
             panel2.Dock = DockStyle.Bottom;
             panel2.Location = new Point(0, 276);
             panel2.Name = "panel2";
-            panel2.Size = new Size(188, 53);
+            panel2.Size = new Size(184, 53);
             panel2.TabIndex = 0;
             // 
             // buttonBuyProduct1
@@ -1077,7 +1076,7 @@
             buttonBuyProduct1.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point);
             buttonBuyProduct1.Image = (Image)resources.GetObject("buttonBuyProduct1.Image");
             buttonBuyProduct1.ImageAlign = ContentAlignment.MiddleLeft;
-            buttonBuyProduct1.Location = new Point(23, 10);
+            buttonBuyProduct1.Location = new Point(21, 10);
             buttonBuyProduct1.Name = "buttonBuyProduct1";
             buttonBuyProduct1.Padding = new Padding(15, 0, 0, 0);
             buttonBuyProduct1.Size = new Size(140, 32);
