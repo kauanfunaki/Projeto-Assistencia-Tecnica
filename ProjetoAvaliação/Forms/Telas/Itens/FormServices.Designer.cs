@@ -302,7 +302,7 @@
             lblTitle.Font = new Font("Microsoft Sans Serif", 15F, FontStyle.Bold | FontStyle.Underline, GraphicsUnit.Point);
             lblTitle.Location = new Point(0, 0);
             lblTitle.Name = "lblTitle";
-            lblTitle.Size = new Size(747, 57);
+            lblTitle.Size = new Size(741, 57);
             lblTitle.TabIndex = 1;
             lblTitle.Text = "Abaixo você encontra todos os nossos serviços disponíveis!";
             lblTitle.TextAlign = ContentAlignment.MiddleCenter;
@@ -568,7 +568,7 @@
             tableLayoutPanel3.RowCount = 2;
             tableLayoutPanel3.RowStyles.Add(new RowStyle(SizeType.Percent, 50F));
             tableLayoutPanel3.RowStyles.Add(new RowStyle(SizeType.Percent, 50F));
-            tableLayoutPanel3.Size = new Size(830, 724);
+            tableLayoutPanel3.Size = new Size(813, 724);
             tableLayoutPanel3.TabIndex = 4;
             // 
             // panel18
@@ -580,7 +580,7 @@
             panel18.Controls.Add(labelServicePrice8);
             panel18.Controls.Add(label39);
             panel18.Controls.Add(panel25);
-            panel18.Location = new Point(630, 378);
+            panel18.Location = new Point(616, 378);
             panel18.Name = "panel18";
             panel18.Size = new Size(190, 329);
             panel18.TabIndex = 11;
@@ -694,7 +694,7 @@
             panel17.Controls.Add(labelServicePrice7);
             panel17.Controls.Add(label35);
             panel17.Controls.Add(panel24);
-            panel17.Location = new Point(422, 378);
+            panel17.Location = new Point(412, 378);
             panel17.Name = "panel17";
             panel17.Size = new Size(190, 329);
             panel17.TabIndex = 11;
@@ -809,7 +809,7 @@
             panel16.Controls.Add(labelServicePrice6);
             panel16.Controls.Add(label31);
             panel16.Controls.Add(panel23);
-            panel16.Location = new Point(215, 378);
+            panel16.Location = new Point(209, 378);
             panel16.Name = "panel16";
             panel16.Size = new Size(190, 329);
             panel16.TabIndex = 11;
@@ -924,7 +924,7 @@
             panel15.Controls.Add(labelServicePrice5);
             panel15.Controls.Add(label27);
             panel15.Controls.Add(panel22);
-            panel15.Location = new Point(8, 378);
+            panel15.Location = new Point(6, 378);
             panel15.Name = "panel15";
             panel15.Size = new Size(190, 329);
             panel15.TabIndex = 11;
@@ -1039,7 +1039,7 @@
             panel14.Controls.Add(labelServicePrice4);
             panel14.Controls.Add(label23);
             panel14.Controls.Add(panel21);
-            panel14.Location = new Point(630, 16);
+            panel14.Location = new Point(616, 16);
             panel14.Name = "panel14";
             panel14.Size = new Size(190, 329);
             panel14.TabIndex = 11;
@@ -1154,7 +1154,7 @@
             panel13.Controls.Add(labelServicePrice3);
             panel13.Controls.Add(label19);
             panel13.Controls.Add(panel20);
-            panel13.Location = new Point(422, 16);
+            panel13.Location = new Point(412, 16);
             panel13.Name = "panel13";
             panel13.Size = new Size(190, 329);
             panel13.TabIndex = 11;
@@ -1269,7 +1269,7 @@
             panel12.Controls.Add(labelServicePrice2);
             panel12.Controls.Add(label15);
             panel12.Controls.Add(panel19);
-            panel12.Location = new Point(215, 16);
+            panel12.Location = new Point(209, 16);
             panel12.Name = "panel12";
             panel12.Size = new Size(190, 329);
             panel12.TabIndex = 10;
@@ -1383,7 +1383,7 @@
             panel10.Controls.Add(labelServicePrice1);
             panel10.Controls.Add(label13);
             panel10.Controls.Add(panel11);
-            panel10.Location = new Point(8, 16);
+            panel10.Location = new Point(6, 16);
             panel10.Name = "panel10";
             panel10.Size = new Size(190, 329);
             panel10.TabIndex = 0;

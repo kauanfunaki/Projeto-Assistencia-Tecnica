@@ -103,10 +103,6 @@ namespace ProjetoAvaliação
                     RJMessageBox.Show("Não foi possível inserir o produto no carrinho.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
-            else
-            {
-                this.Close();
-            }
         }
 
         private void buttonBuyProduct1_Click(object sender, EventArgs e)

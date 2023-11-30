@@ -96,10 +96,6 @@ namespace ProjetoAvaliação
                     RJMessageBox.Show("Não foi possível inserir o serviço no carrinho.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
-            else
-            {
-                this.Close();
-            }
         }
 
         private void buttonServiceBuy1_Click(object sender, EventArgs e)

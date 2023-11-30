@@ -18,12 +18,15 @@ namespace ProjetoAvaliação
 {
     public partial class FormPurchase : Form
     {
+        double valorTotal = 0;
         public FormPurchase()
         {
             InitializeComponent();
             this.Text = string.Empty;
             this.ControlBox = false;
             this.MaximizedBounds = Screen.FromHandle(this.Handle).WorkingArea;
+
+            AtualizarValorTotal();
         }
 
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
@@ -41,6 +44,22 @@ namespace ProjetoAvaliação
 
                 addButton.Click += AdicionarQuantidade;
                 minusButton.Click += RemoverQuantidade;
+            }
+        }
+
+        private void AtualizarValorTotal()
+        {
+            lblPrecoTotal.Text = "Total: R$ " + valorTotal.ToString("F2");
+        }
+
+        private void LabelProduto_TextChanged(object sender, EventArgs e)
+        {
+            double novoValorProduto = 0;
+
+            if (double.TryParse(((Label)sender).Text, out novoValorProduto))
+            {
+                valorTotal += novoValorProduto;
+                AtualizarValorTotal(); 
             }
         }
 
@@ -216,6 +235,8 @@ namespace ProjetoAvaliação
                     cmdVerificarQuantidade.Parameters.AddWithValue("@id", id);
                     int quantidadeAtual = (int)cmdVerificarQuantidade.ExecuteScalar();
 
+                    MessageBox.Show(quantidadeAtual.ToString());
+
                     if (quantidadeAtual + quantidadeAlterada < 0)
                     {
                         MessageBox.Show("Não há estoque suficiente para esta operação.");
@@ -230,6 +251,13 @@ namespace ProjetoAvaliação
                     cmdAtualizarQuantidade.ExecuteNonQuery();
 
                     MessageBox.Show("Quantidade atualizada com sucesso!");
+
+                    string buscarQuantidadeAtualizadaQuery = "SELECT quantidade FROM carrinho WHERE id = @id";
+                    SqlCommand cmdBuscarQuantidadeAtualizada = new SqlCommand(buscarQuantidadeAtualizadaQuery, connection);
+                    cmdBuscarQuantidadeAtualizada.Parameters.AddWithValue("@id", id);
+                    int novaQuantidade = (int)cmdBuscarQuantidadeAtualizada.ExecuteScalar();
+
+                    lblQuantidade1.Text = novaQuantidade.ToString();
                 }
                 catch (Exception ex)
                 {
@@ -300,6 +328,16 @@ namespace ProjetoAvaliação
         }
 
         private void btnComprar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panelComprar_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void lblPreco1_Click(object sender, EventArgs e)
         {
 
         }
