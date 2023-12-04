@@ -45,7 +45,8 @@ create table produtos (
 	preco money not null,
 	categoria varchar(255),
 	descricao varchar(255),
-	situacao varchar(255) check (situacao in ('ativo', 'inativo')) default 'ativo' 
+	situacao varchar(255) check (situacao in ('ativo', 'inativo')) default 'ativo',
+	URL_img varchar(255) not null
 );
 
 create table servicos (
@@ -106,18 +107,17 @@ VALUES
 ('Fernando Castro', '333.222.111-00', '(21) 8765-4321', '1989-09-30', '2021-12-05', NULL),
 ('Juliana Santos', '888.999.000-00', '(31) 2345-6789', '1996-03-22', '2020-10-10', NULL);
 
-INSERT INTO produtos (nome, quantidade, preco, categoria, descricao)
+INSERT INTO produtos (nome, quantidade, preco, categoria, descricao,URL_img)
 VALUES 
-('Notebook Dell Inspiron', 50, 2999.99, 'Informática', 'Notebook com processador Intel Core i5, 8GB RAM, 256GB SSD'),
-('Smartphone Samsung Galaxy S21', 100, 2499.99, 'Eletrônicos', 'Smartphone com tela de 6.2 polegadas, câmera tripla, 128GB de armazenamento'),
-('Monitor LG 27" 4K', 30, 799.99, 'Informática', 'Monitor IPS 4K Ultra HD com HDR10'),
-('Câmera Sony Alpha A7 III', 20, 1999.99, 'Fotografia', 'Câmera Mirrorless Full Frame com sensor CMOS de 24.2MP'),
-('Fone de Ouvido Bluetooth JBL', 80, 149.99, 'Áudio', 'Fone de ouvido sem fio com cancelamento de ruído'),
-('Teclado Mecânico RGB', 60, 129.99, 'Informática', 'Teclado mecânico com retroiluminação RGB personalizável'),
-('Roteador Wi-Fi TP-Link', 40, 79.99, 'Redes', 'Roteador dual band de alta velocidade'),
-('Impressora Multifuncional HP', 25, 199.99, 'Informática', 'Impressora jato de tinta colorida com scanner e copiadora'),
-('Mouse Gamer Logitech', 70, 69.99, 'Informática', 'Mouse óptico para jogos com sensor de alta precisão'),
-('Caixa de Som Bluetooth JBL', 90, 119.99, 'Áudio', 'Caixa de som portátil à prova d''água');
+('Placa de Vídeo 4090 TI', 30, 9999.99, 'Placa de Vídeo', 'As placas de vídeo com GPU NVIDIA GeForce RTX 4090 com 24GB de memórias GDDR6X são os modelos de desempenho mais alto para games no lançamento das placas RTX 40','https://a-static.mlcdn.com.br/450x450/placa-de-video-pny-geforce-rtx-4090-xlr8-gaming-verto-epic-x-rgb-24-gb-gddr6x-dlss-ray-tracing-vcg409024tfxxpb1-o/kabum/397573/51d3cf12f8ae7540c6ce8923a8ba6b4c.jpeg'),
+('3060 TI Founders', 50, 2199.99, 'Placa de Vídeo', 'A GeForce RTX 3060 Ti permite que você jogue os jogos mais recentes usando o poder da Ampere a arquitetura RTX de 2ª geração da NVIDIA. Obtenha um desempenho incrível com Ray Tracing Cores.','https://m.media-amazon.com/images/I/613qHlNshiL.jpg'),
+('ryzen 7 5700x', 30, 1194.00, 'Processador', 'AMD Ryzen™ 7 5700X é um processador para desktop com 8 núcleos de CPU, 16 threads, um soquete AM4 e velocidade base do clock de 3,4 GHz','https://a-static.mlcdn.com.br/450x450/processador-amd-ryzen-7-5700x-socket-am4-3-4ghz-36mb/vilabrasilmarketplace/vip33064y/44c8b31ffaa4e7851bcc5e6f7a821207.jpeg'),
+('B550m AORUS', 20, 742.73, 'Placa Mãe', 'As placas-mãe da série de jogos B550 usam um design de MOSFETs PWM + baixo RDS (on) digital de 5 + 3 fases para oferecer suporte aos processadores AMD Ryzen de 3ª geração','https://m.media-amazon.com/images/I/71OzO9TtYiL._AC_SX679_.jpg'),
+('Fonte 550W 80 plus', 80, 294.99, 'Fonte', 'Fonte Cooler Master MWE Bronze V2 Full Range, 550W, 80 Plus Bronze, Não Modular, PFC Ativo, Bivolt','https://lojacentric.com.br/image/cache/data/Produtos/FO/Fonte-550W-PFC-Ativo-CV550-80-Plus-Bronze-Corsair-Original-COR-NO-DEFINIDA-4C608D52-1-200x200.jpg.avif'),
+('Gabinete NZXT H7', 60, 899.99, 'Gabinete', 'O H7 Flow é um excelente chassis para qualquer construtor ambicioso que pretenda um desempenho térmico otimizado','https://images.kabum.com.br/produtos/fotos/352715/gabinete-nzxt-h7-elite-mid-tower-atx-lateral-e-frontal-em-vidro-temperado-3x-fan-rgb-branco-cm-h71ew-01_1653492152_original.jpg'),
+('Intel I9-11900k', 40, 2428.99, 'Processador', 'Atuando em uma harmonia sem precedentes, o novo núcleo e arquiteturas gráficas, desempenho inteligente baseado em IA e a melhor conectividade sem fio e com fio da categoria','https://m.media-amazon.com/images/I/71diouNMRHL._AC_UF894,1000_QL80_.jpg'),
+('Water Cooler Nzxt Kraken', 25, 1499.99, 'Water Cooler', 'O Kraken 120 combina a aparência de um sistema de resfriamento AIO com a função de um conjunto de ventiladores com fator de forma de 120 mm','https://img.terabyteshop.com.br/produto/g/water-cooler-nzxt-kraken-x73-rgb-360mm-intelamd-rl-krx73-rw_132084.jpg');
+
 
 INSERT INTO servicos (nome, preco, descricao, categoria, situacao)
 VALUES 
