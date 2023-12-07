@@ -11,7 +11,7 @@ namespace ProjetoAvaliação.Classes.Database
     {
         public static string GetConexao()
         {
-            string connectionString = "Data Source=localhost\\SQLEXPRESS;Initial Catalog=DB;" +
+            string connectionString = "Data Source=SNCCHLAB04F12;Initial Catalog=DB;" +
                 "Integrated Security=True";
             
             return connectionString;

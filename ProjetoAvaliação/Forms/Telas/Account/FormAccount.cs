@@ -2,6 +2,7 @@
 using ProjetoAvaliação.Classes.Design;
 using ProjetoAvaliação.Classes.Getters_Setters;
 using ProjetoAvaliação.Forms.Account;
+using ProjetoAvaliação.Forms.Telas.Account;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -77,6 +78,18 @@ namespace ProjetoAvaliação
 
             main.Hide();
             login.Show();
+        }
+
+        private void lblUsuario_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            FormProfile form = new FormProfile();
+            form.ShowDialog();
+
         }
     }
 }

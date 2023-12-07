@@ -14,7 +14,6 @@ namespace ProjetoAvaliação.Classes.Database
         public bool Create(int produto_id, int usuario_id)
         {
             SqlConnection conn = new SqlConnection(connectionString);
-
             try
             {
                 conn.Open();

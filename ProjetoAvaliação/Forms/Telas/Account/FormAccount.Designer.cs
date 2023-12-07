@@ -34,9 +34,11 @@
             btnSair = new Button();
             btnPedidos = new Button();
             btnCompleteCadastro = new Button();
-            lblUsuario = new Label();
             panelMain = new Panel();
+            pictureBox1 = new PictureBox();
+            lblUsuario = new Label();
             tableLayoutPanel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // tableLayoutPanel2
@@ -58,7 +60,7 @@
             tableLayoutPanel2.RowStyles.Add(new RowStyle(SizeType.Percent, 25F));
             tableLayoutPanel2.RowStyles.Add(new RowStyle(SizeType.Percent, 25F));
             tableLayoutPanel2.RowStyles.Add(new RowStyle(SizeType.Absolute, 20F));
-            tableLayoutPanel2.Size = new Size(245, 501);
+            tableLayoutPanel2.Size = new Size(245, 500);
             tableLayoutPanel2.TabIndex = 1;
             // 
             // button3
@@ -119,51 +121,66 @@
             btnCompleteCadastro.UseVisualStyleBackColor = true;
             btnCompleteCadastro.Click += btnCompleteCadastro_Click;
             // 
-            // lblUsuario
-            // 
-            lblUsuario.Dock = DockStyle.Top;
-            lblUsuario.Font = new Font("Montserrat", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            lblUsuario.Image = (Image)resources.GetObject("lblUsuario.Image");
-            lblUsuario.ImageAlign = ContentAlignment.MiddleRight;
-            lblUsuario.Location = new Point(245, 0);
-            lblUsuario.Name = "lblUsuario";
-            lblUsuario.Padding = new Padding(0, 0, 30, 0);
-            lblUsuario.Size = new Size(619, 62);
-            lblUsuario.TabIndex = 2;
-            lblUsuario.Text = "Usuário          ";
-            lblUsuario.TextAlign = ContentAlignment.MiddleRight;
-            // 
             // panelMain
             // 
-            panelMain.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
-            panelMain.Location = new Point(245, 62);
+            panelMain.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            panelMain.Location = new Point(331, 62);
             panelMain.Name = "panelMain";
             panelMain.Size = new Size(619, 439);
             panelMain.TabIndex = 3;
+            // 
+            // pictureBox1
+            // 
+            pictureBox1.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Location = new Point(898, 12);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(40, 40);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox1.TabIndex = 0;
+            pictureBox1.TabStop = false;
+            pictureBox1.Click += pictureBox1_Click;
+            // 
+            // lblUsuario
+            // 
+            lblUsuario.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            lblUsuario.AutoSize = true;
+            lblUsuario.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point);
+            lblUsuario.Location = new Point(815, 20);
+            lblUsuario.Name = "lblUsuario";
+            lblUsuario.Size = new Size(77, 25);
+            lblUsuario.TabIndex = 4;
+            lblUsuario.Text = "Usuario";
             // 
             // FormAccount
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(864, 501);
-            Controls.Add(panelMain);
+            ClientSize = new Size(934, 462);
             Controls.Add(lblUsuario);
+            Controls.Add(pictureBox1);
+            Controls.Add(panelMain);
             Controls.Add(tableLayoutPanel2);
+            FormBorderStyle = FormBorderStyle.None;
+            MinimumSize = new Size(950, 500);
             Name = "FormAccount";
             Text = "MINHA CONTA";
             Load += FormAccount_Load;
             tableLayoutPanel2.ResumeLayout(false);
             tableLayoutPanel2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
         private TableLayoutPanel tableLayoutPanel2;
         private Button btnCompleteCadastro;
-        private Label lblUsuario;
         private Panel panelMain;
         private Button button3;
         private Button btnSair;
         private Button btnPedidos;
+        private PictureBox pictureBox1;
+        private Label lblUsuario;
     }
 }

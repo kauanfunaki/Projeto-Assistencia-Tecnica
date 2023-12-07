@@ -277,3 +277,46 @@ C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\P
 C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.CopyComplete
 C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.genruntimeconfig.cache
 C:\Users\kauan\Desktop\Projeto Assistencia Tecnica\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ref\ProjetoAvaliação.dll
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.AssemblyReference.cache
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormMain.resources
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormCadastro.resources
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormLogin.resources
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormAccount.resources
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.Forms.Account.FormCompleteCadastro.resources
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.Forms.Telas.Account.FormProfile.resources
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormAbout.resources
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormSAC.resources
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormProducts.resources
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormPurchase.resources
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.FormServices.resources
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\CustomMessageBox.Private.FormMessageBox.resources
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.Properties.Resources.resources
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_Cadastro.resources
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_DuvidasFrequentes.resources
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_Entrega.resources
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_PedidosPagamentos.resources
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.UC_s.UC_TrocaDevolucao.resources
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.GenerateResource.cache
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.GeneratedMSBuildEditorConfig.editorconfig
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.AssemblyInfoInputs.cache
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.AssemblyInfo.cs
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.CoreCompileInputs.cache
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.dll
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\refint\ProjetoAvaliação.dll
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.pdb
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.exe
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.deps.json
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.runtimeconfig.json
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.dll
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\ProjetoAvaliação.pdb
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Interop.dll
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\Microsoft.VisualStudio.OLE.Interop.dll
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.csproj.CopyComplete
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ProjetoAvaliação.genruntimeconfig.cache
+D:\oi oficial\Projeto-Assistencia-Tecnica\ProjetoAvaliação\obj\Debug\net6.0-windows\ref\ProjetoAvaliação.dll
