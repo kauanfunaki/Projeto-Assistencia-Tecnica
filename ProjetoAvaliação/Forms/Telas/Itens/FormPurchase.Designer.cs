@@ -76,8 +76,6 @@
             btnRemover5 = new Button();
             lblQuantidade5 = new Label();
             panelTitleBar = new Panel();
-            btnMinimizeCart = new Button();
-            btnMaximizeCart = new Button();
             btnCloseCart = new Button();
             lblTitle = new Label();
             btnMinimize = new Button();
@@ -176,7 +174,6 @@
             lblPreco1.Size = new Size(37, 15);
             lblPreco1.TabIndex = 3;
             lblPreco1.Text = "preço";
-            lblPreco1.Click += lblPreco1_Click;
             // 
             // lblDescricao1
             // 
@@ -594,8 +591,6 @@
             // panelTitleBar
             // 
             panelTitleBar.BackColor = Color.FromArgb(0, 150, 136);
-            panelTitleBar.Controls.Add(btnMinimizeCart);
-            panelTitleBar.Controls.Add(btnMaximizeCart);
             panelTitleBar.Controls.Add(btnCloseCart);
             panelTitleBar.Controls.Add(lblTitle);
             panelTitleBar.Controls.Add(btnMinimize);
@@ -608,40 +603,6 @@
             panelTitleBar.TabIndex = 2;
             panelTitleBar.MouseDown += panelTitleBar_MouseDown;
             // 
-            // btnMinimizeCart
-            // 
-            btnMinimizeCart.Anchor = AnchorStyles.Top | AnchorStyles.Right;
-            btnMinimizeCart.Cursor = Cursors.Hand;
-            btnMinimizeCart.FlatAppearance.BorderSize = 0;
-            btnMinimizeCart.FlatStyle = FlatStyle.Flat;
-            btnMinimizeCart.Font = new Font("Microsoft Sans Serif", 15F, FontStyle.Bold, GraphicsUnit.Point);
-            btnMinimizeCart.ForeColor = Color.White;
-            btnMinimizeCart.Location = new Point(729, 0);
-            btnMinimizeCart.Name = "btnMinimizeCart";
-            btnMinimizeCart.Padding = new Padding(2, 0, 0, 0);
-            btnMinimizeCart.Size = new Size(30, 30);
-            btnMinimizeCart.TabIndex = 9;
-            btnMinimizeCart.Text = "O";
-            btnMinimizeCart.UseVisualStyleBackColor = true;
-            btnMinimizeCart.Click += btnMinimizeCart_Click;
-            // 
-            // btnMaximizeCart
-            // 
-            btnMaximizeCart.Anchor = AnchorStyles.Top | AnchorStyles.Right;
-            btnMaximizeCart.Cursor = Cursors.Hand;
-            btnMaximizeCart.FlatAppearance.BorderSize = 0;
-            btnMaximizeCart.FlatStyle = FlatStyle.Flat;
-            btnMaximizeCart.Font = new Font("Microsoft Sans Serif", 15F, FontStyle.Bold, GraphicsUnit.Point);
-            btnMaximizeCart.ForeColor = Color.White;
-            btnMaximizeCart.Location = new Point(755, 0);
-            btnMaximizeCart.Name = "btnMaximizeCart";
-            btnMaximizeCart.Padding = new Padding(5, 0, 0, 0);
-            btnMaximizeCart.Size = new Size(30, 30);
-            btnMaximizeCart.TabIndex = 8;
-            btnMaximizeCart.Text = "O";
-            btnMaximizeCart.UseVisualStyleBackColor = true;
-            btnMaximizeCart.Click += btnMaximizeCart_Click;
-            // 
             // btnCloseCart
             // 
             btnCloseCart.Anchor = AnchorStyles.Top | AnchorStyles.Right;
@@ -650,7 +611,7 @@
             btnCloseCart.FlatStyle = FlatStyle.Flat;
             btnCloseCart.Font = new Font("Microsoft Sans Serif", 15F, FontStyle.Bold, GraphicsUnit.Point);
             btnCloseCart.ForeColor = Color.White;
-            btnCloseCart.Location = new Point(781, 0);
+            btnCloseCart.Location = new Point(812, 0);
             btnCloseCart.Name = "btnCloseCart";
             btnCloseCart.Padding = new Padding(7, 0, 0, 0);
             btnCloseCart.Size = new Size(30, 30);
@@ -664,9 +625,9 @@
             lblTitle.Anchor = AnchorStyles.None;
             lblTitle.Font = new Font("Microsoft Sans Serif", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
             lblTitle.ForeColor = Color.White;
-            lblTitle.Location = new Point(69, 2);
+            lblTitle.Location = new Point(107, 2);
             lblTitle.Name = "lblTitle";
-            lblTitle.Size = new Size(666, 77);
+            lblTitle.Size = new Size(628, 77);
             lblTitle.TabIndex = 6;
             lblTitle.Text = "MEU CARRINHO";
             lblTitle.TextAlign = ContentAlignment.MiddleCenter;
@@ -729,7 +690,6 @@
             panelComprar.Name = "panelComprar";
             panelComprar.Size = new Size(847, 108);
             panelComprar.TabIndex = 3;
-            panelComprar.Paint += panelComprar_Paint;
             // 
             // btnComprar
             // 
@@ -744,7 +704,6 @@
             btnComprar.TabIndex = 1;
             btnComprar.Text = "Comprar";
             btnComprar.UseVisualStyleBackColor = false;
-            btnComprar.Click += btnComprar_Click;
             // 
             // lblPrecoTotal
             // 
@@ -768,6 +727,7 @@
             StartPosition = FormStartPosition.CenterScreen;
             Text = "FormPurchase";
             TopMost = true;
+            Load += FormPurchase_Load;
             tableLayoutPanel1.ResumeLayout(false);
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
@@ -797,8 +757,6 @@
         private Button btnMinimize;
         private Button btnMaximize;
         private Button btnClose;
-        private Button btnMinimizeCart;
-        private Button btnMaximizeCart;
         private Button btnCloseCart;
         private Label lblTitle;
         private Panel panelComprar;

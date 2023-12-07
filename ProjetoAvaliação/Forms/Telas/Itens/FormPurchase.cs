@@ -19,14 +19,21 @@ namespace ProjetoAvaliação
     public partial class FormPurchase : Form
     {
         double valorTotal = 0;
+        int quantidadeDeLabels = 5;
+
         public FormPurchase()
         {
             InitializeComponent();
             this.Text = string.Empty;
             this.ControlBox = false;
             this.MaximizedBounds = Screen.FromHandle(this.Handle).WorkingArea;
+        }
 
-            AtualizarValorTotal();
+        private void FormPurchase_Load(object sender, EventArgs e)
+        {
+            AtualizarPrecoTotal();
+            PrintarValorTotal();
+            InitializeButtonEvents();
         }
 
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
@@ -47,7 +54,7 @@ namespace ProjetoAvaliação
             }
         }
 
-        private void AtualizarValorTotal()
+        private void PrintarValorTotal()
         {
             lblPrecoTotal.Text = "Total: R$ " + valorTotal.ToString("F2");
         }
@@ -59,13 +66,7 @@ namespace ProjetoAvaliação
             if (double.TryParse(((Label)sender).Text, out novoValorProduto))
             {
                 valorTotal += novoValorProduto;
-                AtualizarValorTotal(); 
             }
-        }
-
-        private void FormPurchase_Load(object sender, EventArgs e)
-        {
-
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -174,7 +175,7 @@ namespace ProjetoAvaliação
 
                 SqlDataReader reader = command.ExecuteReader();
 
-                int labelIndex = 1; // Inicia a contagem em 1
+                int labelIndex = 1;
 
                 while (reader.Read())
                 {
@@ -197,21 +198,11 @@ namespace ProjetoAvaliação
                             lblNome.Text = nome;
                             lblDescricao.Text = descricao;
                             lblQuantidade.Text = quantidade.ToString();
-                            lblPreco.Text = preco.ToString();
+                            lblPreco.Text = "R$ " + preco.ToString();
                         }
-                        else
-                        {
-                            MessageBox.Show("Alguma label não foi encontrada dentro do Panel!");
-                            break; // Interrompe o loop caso alguma label não seja encontrada
-                        }
-                    }
-                    else
-                    {
-                        MessageBox.Show("Panel não encontrado dentro da TableLayoutPanel!");
-                        break; // Interrompe o loop caso o Panel não seja encontrado
                     }
 
-                    labelIndex++; // Incrementa para buscar os controles da próxima linha
+                    labelIndex++;
                 }
 
                 reader.Close();
@@ -229,7 +220,6 @@ namespace ProjetoAvaliação
                 {
                     connection.Open();
 
-                    // Verificar se a quantidade atual é suficiente
                     string verificarQuantidadeQuery = "SELECT quantidade FROM carrinho WHERE id = @id";
                     SqlCommand cmdVerificarQuantidade = new SqlCommand(verificarQuantidadeQuery, connection);
                     cmdVerificarQuantidade.Parameters.AddWithValue("@id", id);
@@ -243,14 +233,11 @@ namespace ProjetoAvaliação
                         return;
                     }
 
-                    // Atualizar a quantidade no banco de dados
                     string atualizarQuantidadeQuery = "UPDATE carrinho SET quantidade = quantidade + @quantidadeAlterada WHERE id = @id";
                     SqlCommand cmdAtualizarQuantidade = new SqlCommand(atualizarQuantidadeQuery, connection);
                     cmdAtualizarQuantidade.Parameters.AddWithValue("@quantidadeAlterada", quantidadeAlterada);
                     cmdAtualizarQuantidade.Parameters.AddWithValue("@id", id);
                     cmdAtualizarQuantidade.ExecuteNonQuery();
-
-                    MessageBox.Show("Quantidade atualizada com sucesso!");
 
                     string buscarQuantidadeAtualizadaQuery = "SELECT quantidade FROM carrinho WHERE id = @id";
                     SqlCommand cmdBuscarQuantidadeAtualizada = new SqlCommand(buscarQuantidadeAtualizadaQuery, connection);
@@ -272,6 +259,7 @@ namespace ProjetoAvaliação
             int id = ObterIdDoCarrinho(btn.Name);
 
             AtualizarQuantidade(id, 1);
+            AtualizarPrecoTotal();
         }
 
         private void RemoverQuantidade(object sender, EventArgs e)
@@ -280,6 +268,8 @@ namespace ProjetoAvaliação
             int id = ObterIdDoCarrinho(btn.Name);
 
             AtualizarQuantidade(id, -1);
+            AtualizarPrecoTotal();
+            PrintarValorTotal();
         }
 
         private int ObterIdDoCarrinho(string nomeBotao)
@@ -288,26 +278,36 @@ namespace ProjetoAvaliação
 
             if (splitString.Length == 1 && int.TryParse(splitString[0], out int id))
             {
-                return id; // Retorna o ID extraído do nome do botão
+                return id;
             }
             else
             {
                 MessageBox.Show("Não foi possível obter o ID do carrinho a partir do nome do botão.");
-                return 0; // Ou retorne um valor padrão, indicando que não foi possível obter o ID do carrinho
+                return 0;
             }
         }
 
-        private void btnMinimizeCart_Click(object sender, EventArgs e)
+        private void AtualizarPrecoTotal()
         {
-            this.WindowState = FormWindowState.Minimized;
-        }
+            for (int i = 1; i <= quantidadeDeLabels; i++)
+            {
+                // Construindo o nome do label com base no valor de i
+                string nomeLabel = "lblPreco" + i;
 
-        private void btnMaximizeCart_Click(object sender, EventArgs e)
-        {
-            if (WindowState == FormWindowState.Normal)
-                this.WindowState = FormWindowState.Maximized;
-            else
-                this.WindowState = FormWindowState.Normal;
+                // Encontrando o controle (label) com o nome construído
+                Control[] foundControls = this.Controls.Find(nomeLabel, true);
+
+                if (foundControls.Length > 0 && foundControls[0] is Label)
+                {
+                    string textoPreco = ((Label)foundControls[0]).Text;
+
+                    double preco;
+                    if (double.TryParse(textoPreco, out preco))
+                    {
+                        valorTotal += preco;
+                    }
+                }
+            }
         }
 
         private void btnCloseCart_Click(object sender, EventArgs e)
@@ -327,19 +327,5 @@ namespace ProjetoAvaliação
             EnviarMensagem(this.Handle, 0x112, 0xf012, 0);
         }
 
-        private void btnComprar_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void panelComprar_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void lblPreco1_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
