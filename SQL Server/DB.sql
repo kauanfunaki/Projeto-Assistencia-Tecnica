@@ -18,7 +18,7 @@ create table clientes (
 	usuario varchar(255) unique not null,
 	senha varchar(255) not null,
 	email varchar(255) unique not null,
-
+	picture_profile varchar (255),
 	nome_completo varchar(255),
 	telefone varchar(255),
 	cpf varchar(255),
